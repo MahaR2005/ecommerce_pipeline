@@ -11,7 +11,8 @@ transforms it using Python and Pandas, and loads it into PostgreSQL.
 - Pandas
 - PostgreSQL
 - SQLAlchemy
-- Logging
+- Linux
+- SQL
 
 ## Pipeline Flow
 
